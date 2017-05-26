@@ -1,2 +1,2 @@
-# unity-text101
+# uni-text101
 Text Adventure
